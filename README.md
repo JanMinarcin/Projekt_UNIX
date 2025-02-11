@@ -1,6 +1,6 @@
 Sociálna sieť na zdieľanie obsahu
 
-O aplikácii
+O aplikácii 
 Táto aplikácia je sociálna sieť, ktorá umožňuje používateľom zdielať obsah. Užívatelia si môžu vytvoriť svoj profil, publikovať 
 príspevky a interagovať s ostatnými.
 
