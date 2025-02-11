@@ -1,10 +1,12 @@
 Sociálna sieť na zdieľanie obsahu
 
-O aplikácii 
+O aplikácii
+
 Táto aplikácia je sociálna sieť, ktorá umožňuje používateľom zdielať obsah. Užívatelia si môžu vytvoriť svoj profil, publikovať 
 príspevky a interagovať s ostatnými.
 
 Hlavné funkcie
+
 Profil používateľa - vytvorenie a úprava profilu.
 Pridávanie obsahu - možnost uverejniť obrázky, videá, textové príspevky
 a odkazy.
