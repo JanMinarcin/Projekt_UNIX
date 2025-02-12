@@ -13,3 +13,9 @@ a odkazy.
 Sledovanie používateľov - možnosť sledovať ostatných používateľov a zobrazovať ich príspevky.
 Páči sa mi príspevok - označenie príspevkov, ktoré sa vám páčia.
 Komentovanie - možnosť komentovať ostatné príspevky.
+
+
+
+
+Odkazy: https://www.youtube.com/watch?v=xSUm6iMtREA&t=3443s
+        https://github.com/tomitokko/django-social-media-website
